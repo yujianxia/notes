@@ -1,2 +1,1 @@
-# yu_notes
-自己的博客
+# yu_notes 一个笔记文档
